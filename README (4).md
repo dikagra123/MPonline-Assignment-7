@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- **Name:** Gargee Singh
-- **Registration Number:** 23BCE11449
-- **Application Number:** IN26011964
-- **Email ID:** gargee.23bce1449@vitbhopal.ac.in
+- **Name:** Diksha Agrawal
+- **Registration Number:** 23BEY10036
+- **Application Number:** IN26010961
+- **Email ID:** dikagra123@gmail.com
 
 ---
 
